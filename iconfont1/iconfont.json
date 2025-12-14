@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "75508",
+      "name": "火热热门",
+      "font_class": "huoreremen",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "3865264",
+      "name": "电脑",
+      "font_class": "diannao",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "34952306",
+      "name": "斜线",
+      "font_class": "xiexian",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    }
+  ]
+}
